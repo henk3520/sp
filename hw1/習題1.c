@@ -134,4 +134,4 @@ int main() {
 
     return 0;
 }
-//chatgpt輔助生成
+//chatgpt輔助參考
